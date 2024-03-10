@@ -6,5 +6,9 @@ const router = createBrowserRouter([
     path: "/",
     element: <App />,
   },
+  {
+    path: "/",
+    element: <App />,
+  },
 ]);
 export default router;
